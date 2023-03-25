@@ -1,0 +1,9 @@
+// deploy funfMe : 12 : if...  =>22 =>all deploy
+
+// verifying => utils => deployFunfMe : 4 :30 :21
+
+// hardaht config :34 => deployFundme:27
+
+// test
+
+// console.log in solidity
