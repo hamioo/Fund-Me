@@ -1,6 +1,6 @@
 # Hardhat Fund Me contract
 
-This project is a Smart Contract that allows people to **send**,**donate** or **fund** Ethereum to the contract **Completely Decentralized**.
+This project is a Smart Contract that allows people to **send**,**donate** or **fund** Ethereum to the contract and the Owner will be able to **Withdraw** the funds in a **Completely Decentralized** environment.
 
 this smart contract uses [ChainLink Data-feeds](https://docs.chain.link/data-feeds).
 
